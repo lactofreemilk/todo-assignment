@@ -1,3 +1,23 @@
+#  Todo-assignment
+Todo App 개발 과제를 위한 프로젝트입니다.
+
+## Features
+- 실제 사용이 가능한 수준의 앱 구현
+- 에러 발생 최소화
+
+## Contributors(솔로프로젝트)
+- 류지환
+
+## Project Wiki
+프로젝트 정보, 기획 아키텍쳐 등의 사항이 업데이트 될 예정입니다.
+
+
+
+
+
+
+
+========기존 리액트 지시문===================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
